@@ -1,6 +1,7 @@
 # expo-crypto-switch
 
 A crypto swap switcher with live CoinGecko prices, bidirectional amount input, and fluid motion throughout.
+
 <img width="1280" height="720" alt="km_20261012-3_1080p_30f_20261012_175037-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/de56cb70-4db7-4c39-8576-f097e4b2ca64" />
 
 
