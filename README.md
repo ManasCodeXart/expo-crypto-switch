@@ -1,9 +1,8 @@
 # expo-crypto-switch
 
 A crypto swap switcher with live CoinGecko prices, bidirectional amount input, and fluid motion throughout.
+<img width="1280" height="720" alt="km_20261012-3_1080p_30f_20261012_175037-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/de56cb70-4db7-4c39-8576-f097e4b2ca64" />
 
-<!-- HERO GIF PLACEHOLDER — add hero gif here after push -->
-<!-- e.g. <img width="1280" height="720" alt="expo-crypto-switch demo" src="PASTE_URL_HERE" /> -->
 
 ---
 
@@ -80,7 +79,11 @@ const { priceUsd, isLoading, error, refresh } = useCryptoPrice('BTC', {
 
 ## Preview
 
-<!-- PREVIEW VIDEO PLACEHOLDER — add preview video here after push -->
+
+
+https://github.com/user-attachments/assets/e0cbcb96-2a74-429b-9def-08f1a572f0ca
+
+
 
 ---
 
